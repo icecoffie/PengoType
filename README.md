@@ -1,4 +1,4 @@
 # PengoType
 Type Anything U Want
 
-Demo [PengoType](https://pengotype.msync.my.id) 
+Try a [PengoType](https://pengotype.msync.my.id) 
